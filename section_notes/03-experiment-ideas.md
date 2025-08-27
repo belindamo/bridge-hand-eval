@@ -4,7 +4,7 @@ use this well-known hand evaluator [http://www.rpbridge.net/8j19.htm](http://www
 
 This is a rule that calculates how good a hand is. However in practice, humans can't use this because there are 26 steps.&#x20;
 
-Can you come up with a procedure with less steps&#x20;
+Mgith come up with a procedure with less steps&#x20;
 
 # Experiment Ideas
 

@@ -1,6 +1,6 @@
 Find datasets of bridge hand plays
 
-Here is one promising source. you can it is formatted as [https://tcgcloud.bridgefinesse.com/PBN/250826](https://tcgcloud.bridgefinesse.com/PBN/250826)
+Here is one promising source. you can it is formatted as "https://tcgcloud.bridgefinesse.com/PBN/
 
 * [https://tcgcloud.bridgefinesse.com/PBN/250826HandRecord.pbn](https://tcgcloud.bridgefinesse.com/PBN/250826HandRecord.pbn)
 

@@ -14,7 +14,7 @@
 ## Core Experiments
 
 ### 1. **Feature Selection for RPBridge Compression**
-   * **Objective**: Prove that k ≤ 8 features can achieve ≥95% correlation with full RPBridge scores
+   * **Objective**: Prove that k \≤ 8 features can achieve ≥95% correlation with full RPBridge scores
    * **Method**: 
      - Generate 10,000 random 13-card bridge hands
      - Compute all 26 RPBridge features f₁...f₂₆ for each hand

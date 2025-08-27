@@ -1,6 +1,7 @@
 Idea -&#x20;
 
-* use this well-known hand evaluator [http://www.rpbridge.net/8j19.htm](http://www.rpbridge.net/8j19.htm)
+use this well-known hand evaluator [http://www.rpbridge.net/8j19.htm](http://www.rpbridge.net/8j19.htm)
+
 * &#x20;is a rule that calculates how good a hand is. However in practice, humans can't use this because there are 26 steps.&#x20;
 * This
 

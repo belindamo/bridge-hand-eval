@@ -1,6 +1,6 @@
 Find datasets of bridge hand plays
 
-*
+* [https://www.bridgebase.com/myhands/index.php?\&from\_login\=1](https://www.bridgebase.com/myhands/index.php?\&from_login=1)
 
 # Datasets
 

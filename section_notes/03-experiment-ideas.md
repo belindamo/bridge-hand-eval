@@ -104,7 +104,7 @@
 - **Practical Impact**: System usable by human players (≤5 steps)
 
 ### Secondary Metrics
-- **Computational efficiency**: <10ms evaluation per hand
+- **Computational efficiency**: \<10ms evaluation per hand
 - **Interpretability**: Features human-understandable
 - **Robustness**: Performance stable across different deal types
 

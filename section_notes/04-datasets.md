@@ -1,12 +1,8 @@
 Find datasets of bridge hand plays
 
-Here is one promising source. you can it is formatted as f"https://tcgcloud.bridgefinesse.com/PBN/{YYMMDD}HandRecord.pbn" so you can look at other days' dates
+Here is one promising source. you can it is formatted as f"[https://tcgcloud.bridgefinesse.com/PBN/{YYMMDD}HandRecord.pbn](https://tcgcloud.bridgefinesse.com/PBN/%7BYYMMDD%7DHandRecord.pbn)" so you can look at other days' dates
 
-* Example: [https://tcgcloud.bridgefinesse.com/PBN/250826HandRecord.pbn](https://tcgcloud.bridgefinesse.com/PBN/250826HandRecord.pbn)
-
-Here's the root website: [https://tcgcloud.bridgefinesse.com/](https://tcgcloud.bridgefinesse.com/)
-
-
+* [https://tcgcloud.bridgefinesse.com/PBN/250826HandRecord.pbn](https://tcgcloud.bridgefinesse.com/PBN/250826HandRecord.pbn)
 
 # Datasets
 

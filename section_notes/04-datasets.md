@@ -4,8 +4,6 @@ Here is one promising source. you can it is formatted as f"https://tcgcloud.brid
 
 * [https://tcgcloud.bridgefinesse.com/PBN/250826HandRecord.pbn](https://tcgcloud.bridgefinesse.com/PBN/250826HandRecord.pbn)
 
-Here's the root website
-
 # Datasets
 
 ## Primary Dataset

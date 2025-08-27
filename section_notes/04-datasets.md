@@ -1,3 +1,5 @@
+
+
 Find datasets of bridge hand plays
 
 Here is one promising source. you can it is formatted as f"[https://tcgcloud.bridgefinesse.com/PBN/{YYMMDD}HandRecord.pbn](https://tcgcloud.bridgefinesse.com/PBN/%7BYYMMDD%7DHandRecord.pbn)" so you can look at other days' dates
@@ -33,3 +35,4 @@ Root website that you may also scrape: [https://tcgcloud.bridgefinesse.com](http
 * Metric: Primary evaluation metric
 * Validation: Cross-validation or holdout strategy
 * Seed: Random seed for reproducibility
+

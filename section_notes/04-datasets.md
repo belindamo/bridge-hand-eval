@@ -4,7 +4,7 @@ Here is one promising source. you can it is formatted as f"[https://tcgcloud.bri
 
 * [https://tcgcloud.bridgefinesse.com/PBN/250826HandRecord.pbn](https://tcgcloud.bridgefinesse.com/PBN/250826HandRecord.pbn)
 
-Root website that you may also scrape:&#x20;
+Root website that you may also scrape: [https://tcgcloud.bridgefinesse.com](https://tcgcloud.bridgefinesse.com/PBN/250826HandRecord.pbn)
 
 # Datasets
 

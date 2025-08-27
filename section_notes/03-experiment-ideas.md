@@ -1,7 +1,7 @@
 # Research Hypotheses & Assumptions
 
 ## Core Hypothesis
-**H1: Compressed Hand Evaluation** - A subset of k << 26 features from the RPBridge evaluator can achieve >95% accuracy of the full 26-step evaluation through optimal feature selection and simple arithmetic combinations.
+**H1: Compressed Hand Evaluation** - A subset of k \<\< 26 features from the RPBridge evaluator can achieve \>95% accuracy of the full 26-step evaluation through optimal feature selection and simple arithmetic combinations.
 
 **Assumption being challenged**: That all 26 steps in RPBridge are necessary for accurate hand evaluation.
 
@@ -27,13 +27,13 @@
    * **Timeline**: 2-3 days for implementation and evaluation
 
 ### 2. **ML Model vs Rule-Based Evaluation**
-   * **Objective**: Demonstrate ML models achieve >90% accuracy on expert-labeled hand strength
+   * **Objective**: Demonstrate ML models achieve \>90% accuracy on expert-labeled hand strength
    * **Method**:
      - Collect expert bridge player evaluations of hand strength (1-10 scale)
      - Train models: Random Forest, Gradient Boosting, Neural Network
      - Features: High-level card statistics (HCP, distribution, controls, etc.)
      - Compare against RPBridge, standard point counting, and Milton Work
-   * **Success Criteria**: Classification accuracy >90% on expert labels, >5% improvement over rule-based methods
+   * **Success Criteria**: Classification accuracy \>90% on expert labels, \>5% improvement over rule-based methods
    * **Resources**: Need expert bridge player annotations (n≥1000 hands)
    * **Timeline**: 1-2 weeks including data collection
 
@@ -43,7 +43,7 @@
      - Use tournament data with bidding sequences and final contracts
      - Compare hand evaluation with/without auction information
      - Measure correlation with actual contract success
-   * **Success Criteria**: >15% improvement in predicting contract outcomes
+   * **Success Criteria**: \>15% improvement in predicting contract outcomes
    * **Data Requirements**: Tournament databases with complete auction + play records
    * **Timeline**: 1 week analysis
 
@@ -100,11 +100,11 @@
 
 ### Primary Success Criteria
 - **Compression**: r ≥ 0.95 correlation with k ≤ 8 features
-- **ML Performance**: >90% accuracy on expert labels
+- **ML Performance**: \>90% accuracy on expert labels
 - **Practical Impact**: System usable by human players (≤5 steps)
 
 ### Secondary Metrics
-- **Computational efficiency**: <10ms evaluation per hand
+- **Computational efficiency**: \<10ms evaluation per hand
 - **Interpretability**: Features human-understandable
 - **Robustness**: Performance stable across different deal types
 

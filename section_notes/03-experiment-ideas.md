@@ -9,8 +9,6 @@
 
 **Assumption being challenged**: That hand-crafted rules are optimal for bridge hand evaluation.
 
----
-
 # Experiment Ideas
 
 ## Core Experiments

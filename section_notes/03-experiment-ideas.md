@@ -11,6 +11,22 @@ You could enumerate over all subsets of steps and do feature selection. We'd jus
 * Think of the 26 steps as **features** f1…f26​ computed from a 13-card hand.
 * The RPBridge score y is a deterministic function of these features.
 
+Idea 1 -&#x20;
+
+use this well-known hand evaluator [http://www.rpbridge.net/8j19.htm](http://www.rpbridge.net/8j19.htm)
+
+It is a rule that calculates how good a hand is. However in practice, humans can't use this because there are 26 steps.&#x20;
+
+Might we run an experiment to devise a procedure with less steps that mimicks this procedure?&#x20;
+
+You could enumerate over all subsets of steps and do feature selection. We'd just need random steps of 13 cards and value according to this rule
+
+
+
+Idea 2 - use the collected datasets to train a better predictor
+
+#
+
 # Experiment Ideas
 
 ## Core Experiments

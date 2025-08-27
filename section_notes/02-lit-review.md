@@ -10,8 +10,6 @@ This literature review examines the evolution of bridge hand evaluation methods,
 
 #### Milton Work Point Count & Goren System (1915-1950s)
 
-
-
 * **Contribution:** Established 4-3-2-1 high card point system with distributional adjustments
 * **Assumption:** Hand strength is additive sum of fixed card values plus distribution points
 * **Gap:** Static values ignore context, partnership fit, and suit quality interactions

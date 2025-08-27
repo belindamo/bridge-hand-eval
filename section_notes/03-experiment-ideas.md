@@ -11,7 +11,7 @@ You could enumerate over all subsets of steps and do feature selection. We'd jus
 * Think of the 26 steps as **features** f1…f26​ computed from a 13-card hand.
 * The RPBridge score y is a deterministic function of these features.
 
-Idea 1 -&#x20;
+
 
 use this well-known hand evaluator [http://www.rpbridge.net/8j19.htm](http://www.rpbridge.net/8j19.htm)
 

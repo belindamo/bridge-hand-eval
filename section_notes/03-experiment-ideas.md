@@ -100,7 +100,7 @@
 
 ### Primary Success Criteria
 - **Compression**: r ≥ 0.95 correlation with k ≤ 8 features
-- **ML Performance**: >90% accuracy on expert labels
+- **ML Performance**: \>90% accuracy on expert labels
 - **Practical Impact**: System usable by human players (≤5 steps)
 
 ### Secondary Metrics

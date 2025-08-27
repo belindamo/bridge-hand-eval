@@ -4,7 +4,7 @@ Idea -&#x20;
 
 use this well-known hand evaluator [http://www.rpbridge.net/8j19.htm](http://www.rpbridge.net/8j19.htm)
 
-This is a rule that calculates how good a hand is. However in practice, humans ca't use this because there are 26 steps.&#x20;
+This is a rule that calculates how good a hand is. However in practice, humans can't use this because there are 26 steps.&#x20;
 
 * ML with 26 features
 

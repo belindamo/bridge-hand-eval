@@ -1,3 +1,5 @@
+
+
 Idea -&#x20;
 
 use this well-known hand evaluator [http://www.rpbridge.net/8j19.htm](http://www.rpbridge.net/8j19.htm)
@@ -44,3 +46,4 @@ Idea 2 - use the collected datasets to train a better predictor
 
 **Must have:** Critical experiments for validation
 **Nice to have:** Additional experiments for robustness
+

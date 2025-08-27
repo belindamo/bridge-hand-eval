@@ -1,8 +1,8 @@
 Find datasets of bridge hand plays
 
+Here is one promising source
 
-
-* [https://www.bridgebase.com/myhands/index.php](https://www.bridgebase.com/myhands/index.php?\&from_login=1)
+* [https://tcgcloud.bridgefinesse.com/PBN/250826HandRecord.pbn](https://tcgcloud.bridgefinesse.com/PBN/250826HandRecord.pbn)
 
 # Datasets
 

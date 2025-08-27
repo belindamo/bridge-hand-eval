@@ -1,7 +1,7 @@
 # Research Hypotheses & Assumptions
 
 ## Core Hypothesis
-**H1: Compressed Hand Evaluation** - A subset of k \<\< 26 features from the RPBridge evaluator can achieve >95% accuracy of the full 26-step evaluation through optimal feature selection and simple arithmetic combinations.
+**H1: Compressed Hand Evaluation** - A subset of k \<\< 26 features from the RPBridge evaluator can achieve \>95% accuracy of the full 26-step evaluation through optimal feature selection and simple arithmetic combinations.
 
 **Assumption being challenged**: That all 26 steps in RPBridge are necessary for accurate hand evaluation.
 

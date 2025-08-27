@@ -2,4 +2,4 @@
 
 ## Research Question
 
-Build a more accurate hand evaluator for the game o
+Build a more accurate hand evaluator for the game of bridge.

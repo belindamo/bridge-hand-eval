@@ -10,6 +10,10 @@ Might we run an experiment to devise a procedure with less steps that mimicks th
 
 You could enumerate over all subsets of steps and do feature selection. We'd just need random steps of 13 cards and value according to this rule
 
+* Think of the 26 steps as **features** f1…f26f₁…f₂₆f1​…f26​ computed from a 13-card hand.
+* The RPBridge score yyy is a deterministic function of these features.
+* We want a **compressed surrogate** y^\=g(fS)\hat{y}\=g(f\_{S})y^​\=g(fS​) using only a small subset SSS (|S| ≤ k), with simple arithmetic, that minimizes error to yyy.
+
 # Experiment Ideas
 
 ## Core Experiments

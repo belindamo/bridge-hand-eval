@@ -6,7 +6,7 @@ This is a rule that calculates how good a hand is. However in practice, humans c
 
 Might we run an experiment to devise a procedure with less steps that mimicks this procedure?&#x20;
 
-You could enumerate over all subsets of steps and do feature selection. We'd just need random steps of 13 cards and value according to this rul
+You could enumerate over all subsets of steps and do feature selection. We'd just need random steps of 13 cards and value according to this rule
 
 # Experiment Ideas
 

@@ -6,6 +6,8 @@ This is a rule that calculates how good a hand is. However in practice, humans c
 
 Might we run an experiment to devise a procedure with less steps that mimicks this procedure?&#x20;
 
+
+
 # Experiment Ideas
 
 ## Core Experiments

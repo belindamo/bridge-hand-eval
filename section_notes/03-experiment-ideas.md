@@ -1,3 +1,5 @@
+Idea - [http://www.rpbridge.net/8j19.htm](http://www.rpbridge.net/8j19.htm)
+
 # Experiment Ideas
 
 ## Core Experiments
